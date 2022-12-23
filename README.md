@@ -22,3 +22,26 @@ Stage 2: Run ```python demo_train.py```, which performs the **F**usion Strategy.
 + [This evaluation tool](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) is used to evaluate the above saliency maps in this paper.
 
 + The training set used in this paper can be accessed in [(NJUD+NLPR), code is **76gu**](https://pan.baidu.com/s/1sNxe3Szu7O_Qci1OGmKIKQ) and [(NJUD+NLPR+DUT), code is **201p**](https://pan.baidu.com/s/19aiosd_73VGMg7PB7HJzww).
+
+
+
+### Acknowledgement
+
+We thank all reviewers for their valuable suggestions. At the same time, thanks to the large number of researchers contributing to the development of open source in this field, particularly, [Deng-ping Fan](http://dpfan.net), [Runmin Cong](https://rmcong.github.io), [Tao Zhou](https://taozh2017.github.io), etc.
+
+Our feature extraction network is based on [CPD backbone](https://github.com/wuzhe71/CPD).
+
+### Bibtex
+```
+@article{{Li_2022_DCBF,
+    author    = {Li, Jingjing and Ji, Wei and Zhang, Miao and Piao, Yongri and Lu, Huchuan and Cheng, Li},
+    title     = {Delving into Calibrated Depth for Accurate RGB-D Salient Object Detection},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    journal = {International Journal of Computer Vision},
+    doi = {10.1007/s11263-022-01734-1},
+    year      = {2022},
+}
+```
+
+#### Contact Us
+If you have any questions, please contact us ( wji3@ualberta.ca ).
