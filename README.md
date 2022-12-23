@@ -33,10 +33,9 @@ Our feature extraction network is based on [CPD backbone](https://github.com/wuz
 
 ### Bibtex
 ```
-@article{{Li_2022_DCBF,
+@article{Li_2022_DCBF,
     author    = {Li, Jingjing and Ji, Wei and Zhang, Miao and Piao, Yongri and Lu, Huchuan and Cheng, Li},
     title     = {Delving into Calibrated Depth for Accurate RGB-D Salient Object Detection},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     journal = {International Journal of Computer Vision},
     doi = {10.1007/s11263-022-01734-1},
     year      = {2022},
