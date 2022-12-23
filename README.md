@@ -1,9 +1,10 @@
 # HiBo-UA
 
 ### HiBo-UA Dataset
-![avatar](https://github.com/jiwei0921/DMRA/blob/master/figure/dataset.png)  
+![avatar](https://github.com/jiwei0921/HiBo-UA/blob/main/HiBo.png)  
 
-
++ The HiBo-UA dataset can be approached in this link.
++ Meanwhile, we also provide state-of-the-art RGB-D methods' results on HiBo-UA dataset, and you can directly download their results.
 
 
 
