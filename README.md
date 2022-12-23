@@ -3,8 +3,8 @@
 ### HiBo-UA Dataset
 ![avatar](https://github.com/jiwei0921/HiBo-UA/blob/main/HiBo.png)  
 
-+ The HiBo-UA dataset can be approached in this link.
-+ Meanwhile, we also provide state-of-the-art RGB-D methods' results on HiBo-UA dataset, and you can directly download their results.
++ The HiBo-UA dataset can be approached in [this link](https://pan.baidu.com/s/1M2DmGvAdHndKLMk7HMDTlQ).
++ Meanwhile, we also provide state-of-the-art RGB-D methods' results on HiBo-UA dataset, and you can directly download [their results](https://pan.baidu.com/s/1M2DmGvAdHndKLMk7HMDTlQ).
 
 
 
