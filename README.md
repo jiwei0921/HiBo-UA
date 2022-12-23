@@ -9,7 +9,7 @@
 
 
 ### DCBF Code
-This code is mainly based on our previous project ([DCF, CVPR21](https://github.com/jiwei0921/DCF/edit/main/README.md)).
+This code is mainly based on our previous project ([DCF, CVPR21](https://github.com/jiwei0921/DCF)).
 
 Stage 1: Run ```python demo_train_pre.py```, which performs the **D**epth **C**alibration Strategy.
 
