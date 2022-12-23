@@ -1,5 +1,23 @@
 # HiBo-UA
 
-Coming Soon!
+### HiBo-UA Dataset
+![avatar](https://github.com/jiwei0921/DMRA/blob/master/figure/dataset.png)  
 
-The authors declare that the source code and HiBo-UA dataset will be made publicly available to the research community upon paper acceptance. It is currently available from the corresponding author (wji3@ualberta.ca) upon reasonable request.
+
+
+
+
+### DCBF Code
+This code is mainly based on our previous project ([DCF, CVPR21](https://github.com/jiwei0921/DCF/edit/main/README.md)).
+
+Stage 1: Run ```python demo_train_pre.py```, which performs the **D**epth **C**alibration Strategy.
+
+Stage 2: Run ```python demo_train.py```, which performs the **F**usion Strategy.
+
+
+### > Evaluation/Training Setup
+
++ The related all test datasets in this paper can be found in [this link (fetch code is **b2p2**)](https://pan.baidu.com/s/1sx1En1ecNyDf12jNGFeYZQ).
++ [This evaluation tool](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) is used to evaluate the above saliency maps in this paper.
+
++ The training set used in this paper can be accessed in [(NJUD+NLPR), code is **76gu**](https://pan.baidu.com/s/1sNxe3Szu7O_Qci1OGmKIKQ) and [(NJUD+NLPR+DUT), code is **201p**](https://pan.baidu.com/s/19aiosd_73VGMg7PB7HJzww).
